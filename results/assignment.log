@@ -1,0 +1,1103 @@
+2025-04-19 20:37:02,529 - INFO - Starting analysis
+2025-04-19 20:37:02,529 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:37:02,529 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:37:02,529 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:37:02,529 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:37:02,529 - INFO - Finance, lending, blockchain clients: 0
+2025-04-19 20:37:02,977 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:37:02,977 - WARNING - No matching inflation rates found
+2025-04-19 20:37:02,977 - ERROR - Error in main execution: 'amount'
+2025-04-19 20:40:31,447 - INFO - Starting analysis
+2025-04-19 20:40:31,447 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:40:31,447 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:40:31,447 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:40:31,447 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:40:31,447 - INFO - Finance, lending, blockchain clients: 25
+2025-04-19 20:40:31,671 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-06-23
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-12-25
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-04-13
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2023-02-24
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-06-13
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2023-10-11
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-12-03
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-08-06
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-08-04
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2023-11-25
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-08-30
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-06-28
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-08-18
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-12-15
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-07-03
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-01-17
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-04-03
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-06-20
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-06-25
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-05-04
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2023-01-06
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-05-15
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-07-02
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-01-16
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-03-19
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-08-08
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-04-05
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-12-04
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-05-24
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-03-29
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-07-05
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-12-14
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-01-19
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-01-11
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-05-12
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-01-18
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-02-10
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-11-28
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-05-21
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-07-03
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-05-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-10-25
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-12-07
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2023-09-02
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-09-03
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-10-07
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-08-31
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-07-16
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-09-15
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-12-11
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-04-03
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-12-11
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-07-16
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-12-11
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-03-18
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-01-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-04-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-07-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2018-10-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-01-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-04-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-07-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2019-10-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-01-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-04-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-07-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2020-10-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-01-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-04-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-07-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2021-10-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-01-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-04-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-07-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2022-10-01
+2025-04-19 20:40:31,689 - WARNING - Unable to parse date: 2023-01-01
+2025-04-19 20:40:31,689 - WARNING - No matching inflation rates found
+2025-04-19 20:40:31,689 - ERROR - Error processing payment amounts: 'amount'
+2025-04-19 20:40:31,689 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 20:42:45,673 - INFO - Starting analysis
+2025-04-19 20:42:45,673 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:42:45,683 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:42:45,683 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:42:45,683 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:42:45,683 - INFO - Finance, lending, blockchain clients: 25
+2025-04-19 20:42:45,877 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:42:46,051 - INFO - Average inflation rate: 4.82%
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:42:46,051 - WARNING - No valid payment amounts found
+2025-04-19 20:42:46,051 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 20:44:34,787 - INFO - Starting analysis
+2025-04-19 20:44:34,787 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:44:34,787 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:44:34,787 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:44:34,787 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:44:34,787 - INFO - Finance, lending, blockchain clients: 25
+2025-04-19 20:44:34,987 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:44:35,148 - INFO - Average inflation rate: 4.82%
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:44:35,148 - WARNING - No valid payment amounts found
+2025-04-19 20:44:35,148 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 20:45:38,038 - INFO - Starting analysis
+2025-04-19 20:45:38,038 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:45:38,038 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:45:38,038 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:45:38,038 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:45:38,038 - INFO - Finance, lending, blockchain clients: 0
+2025-04-19 20:45:38,250 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:45:38,465 - INFO - Average inflation rate: 4.82%
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - Error processing amount: N/A, skipping
+2025-04-19 20:45:38,465 - WARNING - No valid payment amounts found
+2025-04-19 20:45:38,465 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 20:47:33,253 - INFO - Starting analysis
+2025-04-19 20:47:33,253 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:47:33,253 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:47:33,253 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:47:33,269 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:47:33,269 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 20:47:33,464 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:47:33,632 - INFO - Average inflation rate: 4.82%
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - Invalid amount skipped: 
+2025-04-19 20:47:33,632 - WARNING - No valid payment amounts found
+2025-04-19 20:47:33,632 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 20:51:20,262 - INFO - Starting analysis
+2025-04-19 20:51:20,262 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:51:20,262 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:51:20,262 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:51:20,262 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:51:20,262 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 20:51:20,488 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:51:20,656 - INFO - Average inflation rate: 4.82%
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,656 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,671 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - Invalid amount skipped: 
+2025-04-19 20:51:20,672 - WARNING - No valid payment amounts found
+2025-04-19 20:51:20,672 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 20:56:24,933 - INFO - Starting analysis
+2025-04-19 20:56:24,933 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:56:24,933 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:56:24,933 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:56:24,933 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:56:24,933 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 20:56:25,123 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:56:25,295 - INFO - Average inflation rate: 4.42%
+2025-04-19 20:56:25,421 - INFO - Median payment amount: $286.40
+2025-04-19 20:56:25,421 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 20:57:31,538 - INFO - Starting analysis
+2025-04-19 20:57:31,538 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 20:57:31,538 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 20:57:31,538 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 20:57:31,538 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 20:57:31,538 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 20:57:31,742 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 20:57:31,931 - INFO - Average inflation rate: 4.31%
+2025-04-19 20:57:31,932 - INFO - Processed 100 amounts from 100 unique clients
+2025-04-19 20:57:32,041 - INFO - Median payment amount: $286.40
+2025-04-19 20:57:32,041 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 21:01:08,389 - INFO - Starting analysis
+2025-04-19 21:01:08,389 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 21:01:08,389 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 21:01:08,389 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 21:01:08,389 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 21:01:08,389 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 21:01:08,614 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 21:01:08,846 - INFO - Average inflation rate: 4.42%
+2025-04-19 21:01:08,846 - INFO - Processed 100 amounts
+2025-04-19 21:01:09,053 - INFO - Median payment amount: $286.40
+2025-04-19 21:01:09,069 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 21:03:08,226 - INFO - Starting analysis
+2025-04-19 21:03:08,226 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 21:03:08,226 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 21:03:08,226 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 21:03:08,226 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 21:03:08,226 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 21:03:08,456 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 21:03:08,456 - INFO - Matched renewal 2021-06-23 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:03:08,456 - INFO - Matched renewal 2022-12-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:03:08,456 - INFO - Matched renewal 2020-04-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:03:08,471 - INFO - Fallback match for renewal 2023-02-24 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2020-06-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:03:08,471 - INFO - Fallback match for renewal 2023-10-11 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2019-12-03 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2019-08-06 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2021-08-04 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:03:08,471 - INFO - Fallback match for renewal 2023-11-25 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2022-08-30 to inflation 2022-07-01 - 2022-09-30 with rate 5.6%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2018-06-28 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2019-08-18 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2019-12-15 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2020-07-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2022-01-17 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2019-04-03 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2018-06-20 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2021-06-25 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2020-05-04 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:03:08,471 - INFO - Fallback match for renewal 2023-01-06 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2021-05-15 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2021-07-02 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2021-01-16 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2022-03-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2019-08-08 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2022-04-05 to inflation 2022-04-01 - 2022-06-30 with rate 6.8%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2020-12-04 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2021-05-24 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2021-03-29 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2020-07-05 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2022-12-14 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:03:08,471 - INFO - Matched renewal 2022-01-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2019-01-11 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2018-05-12 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2019-01-18 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2019-02-10 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2019-11-28 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2019-05-21 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2021-07-03 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2019-05-01 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2022-10-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:03:08,487 - INFO - Matched renewal 2021-12-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:03:08,491 - INFO - Fallback match for renewal 2023-09-02 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:03:08,494 - INFO - Matched renewal 2020-09-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:03:08,494 - INFO - Matched renewal 2021-10-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:03:08,495 - INFO - Matched renewal 2020-08-31 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:03:08,495 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:03:08,495 - INFO - Matched renewal 2020-09-15 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:03:08,495 - INFO - Matched renewal 2022-12-11 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:03:08,495 - INFO - Matched renewal 2018-04-03 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:03:08,495 - INFO - Matched renewal 2020-12-11 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:03:08,498 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:03:08,499 - INFO - Matched renewal 2021-12-11 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:03:08,501 - INFO - Matched renewal 2021-03-18 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:03:08,501 - INFO - Inflation rates used: [0.76, 4.4, 4.69, 5.49, 4.69, 5.49, 2.71, 7.71, 7.19, 5.49, 5.6, 1.17, 7.71, 2.71, 1.43, 6.76, 3.84, 1.17, 0.76, 4.69, 5.49, 0.76, 7.19, 2.57, 6.76, 7.71, 6.8, 3.1, 0.76, 2.57, 1.43, 4.4, 6.76, 6.91, 1.17, 6.91, 6.91, 2.71, 3.84, 7.19, 3.84, 4.4, 7.32, 5.49, 1.43, 7.32, 1.43, 7.71, 1.43, 4.4, 1.17, 3.1, 7.71, 7.32, 2.57]
+2025-04-19 21:03:08,662 - INFO - Average inflation rate: 4.42%
+2025-04-19 21:03:08,662 - INFO - Processed 100 amounts
+2025-04-19 21:03:08,787 - INFO - Median payment amount: $286.40
+2025-04-19 21:03:08,803 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 21:05:24,636 - INFO - Starting analysis
+2025-04-19 21:05:24,636 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 21:05:24,636 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 21:05:24,636 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 21:05:24,636 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 21:05:24,636 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 21:05:24,866 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 21:05:24,866 - INFO - Matched renewal 2021-06-23 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:05:24,866 - INFO - Matched renewal 2022-12-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:05:24,866 - INFO - Matched renewal 2020-04-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:05:24,873 - INFO - Fallback match for renewal 2023-02-24 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2020-06-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:05:24,873 - INFO - Fallback match for renewal 2023-10-11 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2019-12-03 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2019-08-06 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2021-08-04 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:05:24,873 - INFO - Fallback match for renewal 2023-11-25 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2022-08-30 to inflation 2022-07-01 - 2022-09-30 with rate 5.6%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2018-06-28 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2019-08-18 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2019-12-15 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2020-07-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2022-01-17 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2019-04-03 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2018-06-20 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2021-06-25 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2020-05-04 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:05:24,873 - INFO - Fallback match for renewal 2023-01-06 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2021-05-15 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2021-07-02 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2021-01-16 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2022-03-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2019-08-08 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2022-04-05 to inflation 2022-04-01 - 2022-06-30 with rate 6.8%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2020-12-04 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2021-05-24 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:05:24,873 - INFO - Matched renewal 2021-03-29 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2020-07-05 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2022-12-14 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2022-01-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-01-11 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2018-05-12 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-01-18 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-02-10 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-11-28 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-05-21 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2021-07-03 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-05-01 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2022-10-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2021-12-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:05:24,888 - INFO - Fallback match for renewal 2023-09-02 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2020-09-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2021-10-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2020-08-31 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2020-09-15 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2022-12-11 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2018-04-03 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2020-12-11 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2021-12-11 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:05:24,888 - INFO - Matched renewal 2021-03-18 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:05:24,888 - INFO - Inflation rates used: [0.76, 4.4, 4.69, 5.49, 4.69, 5.49, 2.71, 7.71, 7.19, 5.49, 5.6, 1.17, 7.71, 2.71, 1.43, 6.76, 3.84, 1.17, 0.76, 4.69, 5.49, 0.76, 7.19, 2.57, 6.76, 7.71, 6.8, 3.1, 0.76, 2.57, 1.43, 4.4, 6.76, 6.91, 1.17, 6.91, 6.91, 2.71, 3.84, 7.19, 3.84, 4.4, 7.32, 5.49, 1.43, 7.32, 1.43, 7.71, 1.43, 4.4, 1.17, 3.1, 7.71, 7.32, 2.57]
+2025-04-19 21:05:25,067 - INFO - Average inflation rate: 4.42%
+2025-04-19 21:05:25,067 - INFO - Processed 100 unique amounts from 100 clients
+2025-04-19 21:05:25,187 - INFO - Median payment amount: $286.40
+2025-04-19 21:05:25,187 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 21:52:49,658 - INFO - Starting analysis
+2025-04-19 21:52:49,658 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 21:52:49,658 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 21:52:49,658 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 21:52:49,658 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 21:52:49,658 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 21:52:49,896 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 21:52:49,907 - INFO - Matched renewal 2021-06-23 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:52:49,907 - INFO - Matched renewal 2022-12-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:52:49,907 - INFO - Matched renewal 2020-04-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:52:49,910 - INFO - Fallback match for renewal 2023-02-24 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2020-06-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:52:49,910 - INFO - Fallback match for renewal 2023-10-11 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2019-12-03 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2019-08-06 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2021-08-04 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:52:49,910 - INFO - Fallback match for renewal 2023-11-25 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2022-08-30 to inflation 2022-07-01 - 2022-09-30 with rate 5.6%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2018-06-28 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2019-08-18 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2019-12-15 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2020-07-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2022-01-17 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2019-04-03 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2018-06-20 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2021-06-25 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2020-05-04 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:52:49,910 - INFO - Fallback match for renewal 2023-01-06 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2021-05-15 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2021-07-02 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2021-01-16 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:52:49,910 - INFO - Matched renewal 2022-03-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:52:49,925 - INFO - Matched renewal 2019-08-08 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2022-04-05 to inflation 2022-04-01 - 2022-06-30 with rate 6.8%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2020-12-04 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2021-05-24 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2021-03-29 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2020-07-05 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2022-12-14 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2022-01-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2019-01-11 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2018-05-12 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2019-01-18 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2019-02-10 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2019-11-28 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2019-05-21 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2021-07-03 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2019-05-01 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2022-10-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2021-12-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:52:49,926 - INFO - Fallback match for renewal 2023-09-02 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2020-09-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2021-10-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2020-08-31 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2020-09-15 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2022-12-11 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2018-04-03 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:52:49,926 - INFO - Matched renewal 2020-12-11 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:52:49,941 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:52:49,941 - INFO - Matched renewal 2021-12-11 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:52:49,941 - INFO - Matched renewal 2021-03-18 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:52:49,941 - INFO - Inflation rates used: [0.76, 4.4, 4.69, 5.49, 4.69, 5.49, 2.71, 7.71, 7.19, 5.49, 5.6, 1.17, 7.71, 2.71, 1.43, 6.76, 3.84, 1.17, 0.76, 4.69, 5.49, 0.76, 7.19, 2.57, 6.76, 7.71, 6.8, 3.1, 0.76, 2.57, 1.43, 4.4, 6.76, 6.91, 1.17, 6.91, 6.91, 2.71, 3.84, 7.19, 3.84, 4.4, 7.32, 5.49, 1.43, 7.32, 1.43, 7.71, 1.43, 4.4, 1.17, 3.1, 7.71, 7.32, 2.57]
+2025-04-19 21:52:50,105 - INFO - Average inflation rate: 4.42%
+2025-04-19 21:52:50,105 - INFO - Median amount for year 2019: $360.90 (based on 24 amounts)
+2025-04-19 21:52:50,105 - INFO - Median amount for year 2018: $235.70 (based on 17 amounts)
+2025-04-19 21:52:50,105 - INFO - Median amount for year 2021: $306.80 (based on 22 amounts)
+2025-04-19 21:52:50,105 - INFO - Median amount for year 2020: $284.50 (based on 19 amounts)
+2025-04-19 21:52:50,105 - INFO - Median amount for year 2022: $288.00 (based on 18 amounts)
+2025-04-19 21:52:50,105 - INFO - Processed medians for years: {2019: 360.9, 2018: 235.7, 2021: 306.79999999999995, 2020: 284.5, 2022: 288.0}
+2025-04-19 21:52:50,240 - INFO - Median amounts per year: 2019: $360.90, 2018: $235.70, 2021: $306.80, 2020: $284.50, 2022: $288.00
+2025-04-19 21:52:50,240 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 21:54:58,210 - INFO - Starting analysis
+2025-04-19 21:54:58,211 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 21:54:58,212 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 21:54:58,213 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 21:54:58,214 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 21:54:58,214 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 21:54:58,687 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 21:54:58,696 - INFO - Matched renewal 2021-06-23 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:54:58,697 - INFO - Matched renewal 2022-12-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:54:58,698 - INFO - Matched renewal 2020-04-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:54:58,702 - INFO - Fallback match for renewal 2023-02-24 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:54:58,704 - INFO - Matched renewal 2020-06-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:54:58,707 - INFO - Fallback match for renewal 2023-10-11 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:54:58,708 - INFO - Matched renewal 2019-12-03 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:54:58,708 - INFO - Matched renewal 2019-08-06 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:54:58,709 - INFO - Matched renewal 2021-08-04 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:54:58,711 - INFO - Fallback match for renewal 2023-11-25 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:54:58,712 - INFO - Matched renewal 2022-08-30 to inflation 2022-07-01 - 2022-09-30 with rate 5.6%
+2025-04-19 21:54:58,712 - INFO - Matched renewal 2018-06-28 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:54:58,713 - INFO - Matched renewal 2019-08-18 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:54:58,714 - INFO - Matched renewal 2019-12-15 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:54:58,714 - INFO - Matched renewal 2020-07-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:54:58,715 - INFO - Matched renewal 2022-01-17 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:54:58,715 - INFO - Matched renewal 2019-04-03 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:54:58,716 - INFO - Matched renewal 2018-06-20 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:54:58,716 - INFO - Matched renewal 2021-06-25 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:54:58,717 - INFO - Matched renewal 2020-05-04 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:54:58,721 - INFO - Fallback match for renewal 2023-01-06 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:54:58,723 - INFO - Matched renewal 2021-05-15 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:54:58,725 - INFO - Matched renewal 2021-07-02 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:54:58,726 - INFO - Matched renewal 2021-01-16 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:54:58,728 - INFO - Matched renewal 2022-03-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:54:58,729 - INFO - Matched renewal 2019-08-08 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:54:58,732 - INFO - Matched renewal 2022-04-05 to inflation 2022-04-01 - 2022-06-30 with rate 6.8%
+2025-04-19 21:54:58,733 - INFO - Matched renewal 2020-12-04 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:54:58,734 - INFO - Matched renewal 2021-05-24 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:54:58,736 - INFO - Matched renewal 2021-03-29 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:54:58,739 - INFO - Matched renewal 2020-07-05 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:54:58,740 - INFO - Matched renewal 2022-12-14 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:54:58,742 - INFO - Matched renewal 2022-01-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:54:58,742 - INFO - Matched renewal 2019-01-11 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:54:58,743 - INFO - Matched renewal 2018-05-12 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:54:58,743 - INFO - Matched renewal 2019-01-18 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:54:58,744 - INFO - Matched renewal 2019-02-10 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:54:58,745 - INFO - Matched renewal 2019-11-28 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:54:58,746 - INFO - Matched renewal 2019-05-21 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:54:58,747 - INFO - Matched renewal 2021-07-03 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:54:58,748 - INFO - Matched renewal 2019-05-01 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:54:58,749 - INFO - Matched renewal 2022-10-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:54:58,750 - INFO - Matched renewal 2021-12-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:54:58,754 - INFO - Fallback match for renewal 2023-09-02 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:54:58,755 - INFO - Matched renewal 2020-09-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:54:58,757 - INFO - Matched renewal 2021-10-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:54:58,757 - INFO - Matched renewal 2020-08-31 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:54:58,758 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:54:58,759 - INFO - Matched renewal 2020-09-15 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:54:58,760 - INFO - Matched renewal 2022-12-11 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:54:58,760 - INFO - Matched renewal 2018-04-03 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:54:58,761 - INFO - Matched renewal 2020-12-11 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:54:58,761 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:54:58,762 - INFO - Matched renewal 2021-12-11 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:54:58,763 - INFO - Matched renewal 2021-03-18 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:54:58,763 - INFO - Inflation rates used: [0.76, 4.4, 4.69, 5.49, 4.69, 5.49, 2.71, 7.71, 7.19, 5.49, 5.6, 1.17, 7.71, 2.71, 1.43, 6.76, 3.84, 1.17, 0.76, 4.69, 5.49, 0.76, 7.19, 2.57, 6.76, 7.71, 6.8, 3.1, 0.76, 2.57, 1.43, 4.4, 6.76, 6.91, 1.17, 6.91, 6.91, 2.71, 3.84, 7.19, 3.84, 4.4, 7.32, 5.49, 1.43, 7.32, 1.43, 7.71, 1.43, 4.4, 1.17, 3.1, 7.71, 7.32, 2.57]
+2025-04-19 21:54:59,156 - INFO - Average inflation rate: 4.42%
+2025-04-19 21:54:59,158 - INFO - Median amount for year 2019: $360.90 (based on 24 amounts) with payment methods: {'Credit Card', 'Bank Transfer', 'Check'}
+2025-04-19 21:54:59,158 - INFO - Median amount for year 2018: $235.70 (based on 17 amounts) with payment methods: {'Credit Card', 'Bank Transfer', 'Check'}
+2025-04-19 21:54:59,158 - INFO - Median amount for year 2021: $306.80 (based on 22 amounts) with payment methods: {'Credit Card', 'Check', 'Bank Transfer'}
+2025-04-19 21:54:59,158 - INFO - Median amount for year 2020: $284.50 (based on 19 amounts) with payment methods: {'Credit Card', 'Check', 'Bank Transfer'}
+2025-04-19 21:54:59,158 - INFO - Median amount for year 2022: $288.00 (based on 18 amounts) with payment methods: {'Credit Card', 'Check', 'Bank Transfer'}
+2025-04-19 21:54:59,158 - INFO - Processed medians for years: {2019: 360.9, 2018: 235.7, 2021: 306.79999999999995, 2020: 284.5, 2022: 288.0}
+2025-04-19 21:54:59,435 - INFO - Median amounts per year: 2019: $360.90, 2018: $235.70, 2021: $306.80, 2020: $284.50, 2022: $288.00
+2025-04-19 21:54:59,436 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 21:55:15,324 - INFO - Starting analysis
+2025-04-19 21:55:15,325 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 21:55:15,326 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 21:55:15,326 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 21:55:15,327 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 21:55:15,327 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 21:55:15,690 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 21:55:15,699 - INFO - Matched renewal 2021-06-23 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:55:15,700 - INFO - Matched renewal 2022-12-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:55:15,702 - INFO - Matched renewal 2020-04-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:55:15,707 - INFO - Fallback match for renewal 2023-02-24 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:55:15,707 - INFO - Matched renewal 2020-06-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:55:15,710 - INFO - Fallback match for renewal 2023-10-11 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:55:15,710 - INFO - Matched renewal 2019-12-03 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:55:15,711 - INFO - Matched renewal 2019-08-06 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:55:15,712 - INFO - Matched renewal 2021-08-04 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:55:15,714 - INFO - Fallback match for renewal 2023-11-25 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:55:15,715 - INFO - Matched renewal 2022-08-30 to inflation 2022-07-01 - 2022-09-30 with rate 5.6%
+2025-04-19 21:55:15,715 - INFO - Matched renewal 2018-06-28 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:55:15,716 - INFO - Matched renewal 2019-08-18 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:55:15,716 - INFO - Matched renewal 2019-12-15 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:55:15,717 - INFO - Matched renewal 2020-07-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:55:15,718 - INFO - Matched renewal 2022-01-17 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:55:15,719 - INFO - Matched renewal 2019-04-03 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:55:15,719 - INFO - Matched renewal 2018-06-20 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:55:15,721 - INFO - Matched renewal 2021-06-25 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:55:15,723 - INFO - Matched renewal 2020-05-04 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 21:55:15,727 - INFO - Fallback match for renewal 2023-01-06 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:55:15,728 - INFO - Matched renewal 2021-05-15 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:55:15,730 - INFO - Matched renewal 2021-07-02 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:55:15,731 - INFO - Matched renewal 2021-01-16 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:55:15,732 - INFO - Matched renewal 2022-03-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:55:15,733 - INFO - Matched renewal 2019-08-08 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:55:15,734 - INFO - Matched renewal 2022-04-05 to inflation 2022-04-01 - 2022-06-30 with rate 6.8%
+2025-04-19 21:55:15,734 - INFO - Matched renewal 2020-12-04 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:55:15,736 - INFO - Matched renewal 2021-05-24 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 21:55:15,738 - INFO - Matched renewal 2021-03-29 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:55:15,739 - INFO - Matched renewal 2020-07-05 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:55:15,740 - INFO - Matched renewal 2022-12-14 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:55:15,741 - INFO - Matched renewal 2022-01-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 21:55:15,741 - INFO - Matched renewal 2019-01-11 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:55:15,742 - INFO - Matched renewal 2018-05-12 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:55:15,742 - INFO - Matched renewal 2019-01-18 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:55:15,743 - INFO - Matched renewal 2019-02-10 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 21:55:15,743 - INFO - Matched renewal 2019-11-28 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 21:55:15,743 - INFO - Matched renewal 2019-05-21 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:55:15,744 - INFO - Matched renewal 2021-07-03 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 21:55:15,744 - INFO - Matched renewal 2019-05-01 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 21:55:15,745 - INFO - Matched renewal 2022-10-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:55:15,746 - INFO - Matched renewal 2021-12-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:55:15,750 - INFO - Fallback match for renewal 2023-09-02 to closest 2023-01-01 with rate 5.49%
+2025-04-19 21:55:15,751 - INFO - Matched renewal 2020-09-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:55:15,753 - INFO - Matched renewal 2021-10-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:55:15,754 - INFO - Matched renewal 2020-08-31 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:55:15,755 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:55:15,757 - INFO - Matched renewal 2020-09-15 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 21:55:15,759 - INFO - Matched renewal 2022-12-11 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 21:55:15,759 - INFO - Matched renewal 2018-04-03 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 21:55:15,760 - INFO - Matched renewal 2020-12-11 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 21:55:15,761 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 21:55:15,762 - INFO - Matched renewal 2021-12-11 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 21:55:15,762 - INFO - Matched renewal 2021-03-18 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 21:55:15,762 - INFO - Inflation rates used: [0.76, 4.4, 4.69, 5.49, 4.69, 5.49, 2.71, 7.71, 7.19, 5.49, 5.6, 1.17, 7.71, 2.71, 1.43, 6.76, 3.84, 1.17, 0.76, 4.69, 5.49, 0.76, 7.19, 2.57, 6.76, 7.71, 6.8, 3.1, 0.76, 2.57, 1.43, 4.4, 6.76, 6.91, 1.17, 6.91, 6.91, 2.71, 3.84, 7.19, 3.84, 4.4, 7.32, 5.49, 1.43, 7.32, 1.43, 7.71, 1.43, 4.4, 1.17, 3.1, 7.71, 7.32, 2.57]
+2025-04-19 21:55:16,094 - INFO - Average inflation rate: 4.42%
+2025-04-19 21:55:16,095 - INFO - Median amount for year 2019: $360.90 (based on 24 amounts) with payment methods: {'Check', 'Credit Card', 'Bank Transfer'}
+2025-04-19 21:55:16,095 - INFO - Median amount for year 2018: $235.70 (based on 17 amounts) with payment methods: {'Check', 'Credit Card', 'Bank Transfer'}
+2025-04-19 21:55:16,095 - INFO - Median amount for year 2021: $306.80 (based on 22 amounts) with payment methods: {'Check', 'Bank Transfer', 'Credit Card'}
+2025-04-19 21:55:16,095 - INFO - Median amount for year 2020: $284.50 (based on 19 amounts) with payment methods: {'Check', 'Bank Transfer', 'Credit Card'}
+2025-04-19 21:55:16,095 - INFO - Median amount for year 2022: $288.00 (based on 18 amounts) with payment methods: {'Check', 'Bank Transfer', 'Credit Card'}
+2025-04-19 21:55:16,095 - INFO - Processed medians for years: {2019: 360.9, 2018: 235.7, 2021: 306.79999999999995, 2020: 284.5, 2022: 288.0}
+2025-04-19 21:55:16,371 - INFO - Median amounts per year: 2019: $360.90, 2018: $235.70, 2021: $306.80, 2020: $284.50, 2022: $288.00
+2025-04-19 21:55:16,372 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
+2025-04-19 22:01:12,904 - INFO - Starting analysis
+2025-04-19 22:01:12,905 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\industry_client_details.csv
+2025-04-19 22:01:12,907 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\subscription_information.csv
+2025-04-19 22:01:12,907 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\financial_information.csv
+2025-04-19 22:01:12,908 - INFO - Successfully read D:/skygeni-data-engineer-assignment\data\payment_information.csv
+2025-04-19 22:01:12,908 - INFO - Finance Lending and Block Chain clients: 47
+2025-04-19 22:01:13,229 - INFO - Highest renewal rate: gaming (72.73%)
+2025-04-19 22:01:13,239 - INFO - Matched renewal 2021-06-23 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 22:01:13,241 - INFO - Matched renewal 2022-12-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 22:01:13,242 - INFO - Matched renewal 2020-04-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 22:01:13,245 - INFO - Fallback match for renewal 2023-02-24 to closest 2023-01-01 with rate 5.49%
+2025-04-19 22:01:13,246 - INFO - Matched renewal 2020-06-13 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 22:01:13,252 - INFO - Fallback match for renewal 2023-10-11 to closest 2023-01-01 with rate 5.49%
+2025-04-19 22:01:13,253 - INFO - Matched renewal 2019-12-03 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 22:01:13,254 - INFO - Matched renewal 2019-08-06 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 22:01:13,256 - INFO - Matched renewal 2021-08-04 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 22:01:13,260 - INFO - Fallback match for renewal 2023-11-25 to closest 2023-01-01 with rate 5.49%
+2025-04-19 22:01:13,262 - INFO - Matched renewal 2022-08-30 to inflation 2022-07-01 - 2022-09-30 with rate 5.6%
+2025-04-19 22:01:13,262 - INFO - Matched renewal 2018-06-28 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 22:01:13,262 - INFO - Matched renewal 2019-08-18 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 22:01:13,263 - INFO - Matched renewal 2019-12-15 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 22:01:13,263 - INFO - Matched renewal 2020-07-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 22:01:13,264 - INFO - Matched renewal 2022-01-17 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 22:01:13,264 - INFO - Matched renewal 2019-04-03 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 22:01:13,264 - INFO - Matched renewal 2018-06-20 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 22:01:13,265 - INFO - Matched renewal 2021-06-25 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 22:01:13,266 - INFO - Matched renewal 2020-05-04 to inflation 2020-04-01 - 2020-06-30 with rate 4.69%
+2025-04-19 22:01:13,269 - INFO - Fallback match for renewal 2023-01-06 to closest 2023-01-01 with rate 5.49%
+2025-04-19 22:01:13,270 - INFO - Matched renewal 2021-05-15 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 22:01:13,271 - INFO - Matched renewal 2021-07-02 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 22:01:13,272 - INFO - Matched renewal 2021-01-16 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 22:01:13,273 - INFO - Matched renewal 2022-03-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 22:01:13,274 - INFO - Matched renewal 2019-08-08 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 22:01:13,275 - INFO - Matched renewal 2022-04-05 to inflation 2022-04-01 - 2022-06-30 with rate 6.8%
+2025-04-19 22:01:13,276 - INFO - Matched renewal 2020-12-04 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 22:01:13,278 - INFO - Matched renewal 2021-05-24 to inflation 2021-04-01 - 2021-06-30 with rate 0.76%
+2025-04-19 22:01:13,279 - INFO - Matched renewal 2021-03-29 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 22:01:13,280 - INFO - Matched renewal 2020-07-05 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 22:01:13,281 - INFO - Matched renewal 2022-12-14 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 22:01:13,282 - INFO - Matched renewal 2022-01-19 to inflation 2022-01-01 - 2022-03-31 with rate 6.76%
+2025-04-19 22:01:13,283 - INFO - Matched renewal 2019-01-11 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 22:01:13,283 - INFO - Matched renewal 2018-05-12 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 22:01:13,283 - INFO - Matched renewal 2019-01-18 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 22:01:13,283 - INFO - Matched renewal 2019-02-10 to inflation 2019-01-01 - 2019-03-31 with rate 6.91%
+2025-04-19 22:01:13,284 - INFO - Matched renewal 2019-11-28 to inflation 2019-10-01 - 2019-12-31 with rate 2.71%
+2025-04-19 22:01:13,284 - INFO - Matched renewal 2019-05-21 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 22:01:13,285 - INFO - Matched renewal 2021-07-03 to inflation 2021-07-01 - 2021-09-30 with rate 7.19%
+2025-04-19 22:01:13,286 - INFO - Matched renewal 2019-05-01 to inflation 2019-04-01 - 2019-06-30 with rate 3.84%
+2025-04-19 22:01:13,288 - INFO - Matched renewal 2022-10-25 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 22:01:13,289 - INFO - Matched renewal 2021-12-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 22:01:13,293 - INFO - Fallback match for renewal 2023-09-02 to closest 2023-01-01 with rate 5.49%
+2025-04-19 22:01:13,294 - INFO - Matched renewal 2020-09-03 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 22:01:13,295 - INFO - Matched renewal 2021-10-07 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 22:01:13,295 - INFO - Matched renewal 2020-08-31 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 22:01:13,296 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 22:01:13,296 - INFO - Matched renewal 2020-09-15 to inflation 2020-07-01 - 2020-09-30 with rate 1.43%
+2025-04-19 22:01:13,298 - INFO - Matched renewal 2022-12-11 to inflation 2022-10-01 - 2022-12-31 with rate 4.4%
+2025-04-19 22:01:13,298 - INFO - Matched renewal 2018-04-03 to inflation 2018-04-01 - 2018-06-30 with rate 1.17%
+2025-04-19 22:01:13,298 - INFO - Matched renewal 2020-12-11 to inflation 2020-10-01 - 2020-12-31 with rate 3.1%
+2025-04-19 22:01:13,299 - INFO - Matched renewal 2019-07-16 to inflation 2019-07-01 - 2019-09-30 with rate 7.71%
+2025-04-19 22:01:13,300 - INFO - Matched renewal 2021-12-11 to inflation 2021-10-01 - 2021-12-31 with rate 7.32%
+2025-04-19 22:01:13,300 - INFO - Matched renewal 2021-03-18 to inflation 2021-01-01 - 2021-03-31 with rate 2.57%
+2025-04-19 22:01:13,301 - INFO - Inflation rates used: [0.76, 4.4, 4.69, 5.49, 4.69, 5.49, 2.71, 7.71, 7.19, 5.49, 5.6, 1.17, 7.71, 2.71, 1.43, 6.76, 3.84, 1.17, 0.76, 4.69, 5.49, 0.76, 7.19, 2.57, 6.76, 7.71, 6.8, 3.1, 0.76, 2.57, 1.43, 4.4, 6.76, 6.91, 1.17, 6.91, 6.91, 2.71, 3.84, 7.19, 3.84, 4.4, 7.32, 5.49, 1.43, 7.32, 1.43, 7.71, 1.43, 4.4, 1.17, 3.1, 7.71, 7.32, 2.57]
+2025-04-19 22:01:13,532 - INFO - Average inflation rate: 4.42%
+2025-04-19 22:01:13,533 - INFO - Median amount for year 2019: $360.90 (based on 24 amounts) with payment methods: {'Bank Transfer', 'Check', 'Credit Card'}
+2025-04-19 22:01:13,533 - INFO - Median amount for year 2018: $235.70 (based on 17 amounts) with payment methods: {'Bank Transfer', 'Check', 'Credit Card'}
+2025-04-19 22:01:13,533 - INFO - Median amount for year 2021: $306.80 (based on 22 amounts) with payment methods: {'Bank Transfer', 'Check', 'Credit Card'}
+2025-04-19 22:01:13,533 - INFO - Median amount for year 2020: $284.50 (based on 19 amounts) with payment methods: {'Bank Transfer', 'Check', 'Credit Card'}
+2025-04-19 22:01:13,533 - INFO - Median amount for year 2022: $288.00 (based on 18 amounts) with payment methods: {'Bank Transfer', 'Check', 'Credit Card'}
+2025-04-19 22:01:13,533 - INFO - Processed medians for years: {2019: 360.9, 2018: 235.7, 2021: 306.79999999999995, 2020: 284.5, 2022: 288.0}
+2025-04-19 22:01:13,739 - INFO - Median amounts per year: 2018: $235.70
+2019: $360.90
+2020: $284.50
+2021: $306.80
+2022: $288.00
+2025-04-19 22:01:13,740 - INFO - Results saved to D:/skygeni-data-engineer-assignment\results\results.txt
